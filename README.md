@@ -53,7 +53,7 @@ This project demonstrates how such hidden communication works, for educational a
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/<your-username>/steganography-tool.git
+git clone https://github.com/ALYANXG/Steganography-tool.git
 cd steganography-tool
 pip install -r requirements.txt
 ```
