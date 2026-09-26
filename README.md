@@ -95,7 +95,7 @@ $ python stego.py encode -i input.png -m "Hello Ali, Secret msg!" -o stego.png
 ✅ Message hidden successfully in 'stego.png'
 
 $ python stego.py decode -i stego.png
-🔓 Decoded message: Hello Ali, Secret msg!
+Decoded message: Hello Ali, Secret msg!
 ```
 
 ---
@@ -109,15 +109,6 @@ $ python stego.py decode -i stego.png
 
 ---
 
-## 📚 Learning Outcomes
-
-- Understanding of Steganography vs Cryptography
-- Bit-level manipulation in Python
-- Image processing with Pillow
-- Basics of symmetric encryption (Fernet/AES)
-- Building a CLI tool with `argparse`
-
----
 
 ## 👤 Author
 
